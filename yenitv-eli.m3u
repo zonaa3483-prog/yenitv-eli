@@ -1,8 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="KurtlarVadisi01" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/3d/Kurtlar_vadisi_logo.png" group-title="Kurtlar Vadisi", Kurtlar Vadisi - Bölüm 1
 https://ia601506.us.archive.org/11/items/1.-bolum-kurtlar-vadisi-4-k-1080-p-hd/1.B%C3%B6l%C3%BCm%20-%20Kurtlar%20Vadisi%20_%204K%281080P_HD%29.mp4
-#EXTINF:-1 tvg-id="KV02" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/3d/Kurtlar_vadisi_logo.png", Kurtlar Vadisi - Bölüm 2 (4K)
-https://ia903104.us.archive.org/4/items/2.-bolum-kurtlar-vadisi-4-k/2.B%C3%B6l%C3%BCm%20-%20Kurtlar%20Vadisi%20%20%204K.mp4
 
-#EXTINF:-1 tvg-id="KV02_1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/3d/Kurtlar_vadisi_logo.png", Kurtlar Vadisi - Bölüm 2 (1080p HD)
-https://archive.org/download/kurtlar-vadisi-tum-bolumler-hd/02.B%c3%b6l%c3%bcm.mp4
+#EXTINF:-1,Kurtlar Vadisi - 2. Bölüm
+https://ia600806.us.archive.org/14/items/kurtlar-vadisi-3.-bolum-full-hd-yeni-polat-alemdar-720-p-hd/Kurtlar Vadisi - 2.Bölüm _ FULL HD YENİ _ _ResmiPolatAlemdar%28720P_HD%29.mp4
+
+#EXTINF:-1,Kurtlar Vadisi - 3. Bölüm
+https://ia600806.us.archive.org/14/items/kurtlar-vadisi-3.-bolum-full-hd-yeni-polat-alemdar-720-p-hd/Kurtlar Vadisi - 3.Bölüm _ FULL HD YENİ _ _Polat Alemdar%28720P_HD%29.mp4
+
+#EXTINF:-1,Kurtlar Vadisi - 4. Bölüm
+https://ia600806.us.archive.org/14/items/kurtlar-vadisi-3.-bolum-full-hd-yeni-polat-alemdar-720-p-hd/Kurtlar Vadisi - 4.Bölüm _ FULL HD YENİ%28720P_HD%29.mp4
+
+#EXTINF:-1,Kurtlar Vadisi - 5. Bölüm
+https://ia600806.us.archive.org/14/items/kurtlar-vadisi-3.-bolum-full-hd-yeni-polat-alemdar-720-p-hd/Kurtlar Vadisi - 5.Bölüm _ FULL HD YENİ%28720P_HD%29.mp4
+
+#EXTINF:-1,Kurtlar Vadisi - 6. Bölüm
+https://ia600806.us.archive.org/14/items/kurtlar-vadisi-3.-bolum-full-hd-yeni-polat-alemdar-720-p-hd/Kurtlar Vadisi - 6.Bölüm _ FULL HD YENİ%28720P_HD%29.mp4
+
+#EXTINF:-1,Kurtlar Vadisi - 7. Bölüm
+https://ia600806.us.archive.org/14/items/kurtlar-vadisi-3.-bolum-full-hd-yeni-polat-alemdar-720-p-hd/Kurtlar Vadisi - 7.Bölüm _ FULL HD YENİ%28720P_HD%29.mp4
+
+#EXTINF:-1,Kurtlar Vadisi - 8. Bölüm
+https://ia600806.us.archive.org/14/items/kurtlar-vadisi-3.-bolum-full-hd-yeni-polat-alemdar-720-p-hd/Kurtlar Vadisi - 8.Bölüm _ FULL HD YENİ%28720P_HD%29.mp4
+
+#EXTINF:-1,Kurtlar Vadisi - 9. Bölüm
+https://ia600806.us.archive.org/14/items/kurtlar-vadisi-3.-bolum-full-hd-yeni-polat-alemdar-720-p-hd/9.Bölüm - Kurtlar Vadisi _ 4K%28720P_HD%29.mp4
+
+#EXTINF:-1,Kurtlar Vadisi - 10. Bölüm
+https://ia600806.us.archive.org/14/items/kurtlar-vadisi-3.-bolum-full-hd-yeni-polat-alemdar-720-p-hd/Kurtlar Vadisi - 10.Bölüm _ FULL HD YENİ%28720P_HD%29.mp4
