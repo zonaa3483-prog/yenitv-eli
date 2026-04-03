@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Kurtlar Vadisi Filistin (2011)
-https://dn721809.ca.archive.org/0/items/kurtlar-vadisi-filistin-2011-dvdrip-xvi-d-smv_202209/Kurtlar%20Vadisi%20Filistin%202011%20DVDRip%20XviD%20SMV.mp4
-
+#EXTINF:-1 tvg-id="KurtlarVadisi01" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/3d/Kurtlar_vadisi_logo.png" group-title="Kurtlar Vadisi", Kurtlar Vadisi - Bölüm 1
+https://ia601506.us.archive.org/11/items/1.-bolum-kurtlar-vadisi-4-k-1080-p-hd/1.B%C3%B6l%C3%BCm%20-%20Kurtlar%20Vadisi%20_%204K%281080P_HD%29.mp4
