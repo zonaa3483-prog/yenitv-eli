@@ -2,36 +2,74 @@
 #EXTINF:-1 tvg-logo="https://ia902803.us.archive.org/5/items/kvp-logo-design-inspiration-for-a-unique-identity-modern-elegance-and-creative-d/kvp-logo-design-inspiration-for-a-unique-identity-modern-elegance-and-creative-design-watermark-your-success-with-the-striking-this-logo-vector.jpg" group-title="Kurtlar Vadisi Pusu",Kurtlar Vadisi Pusu - 1. Bölüm (720p HD)
 https://ia600109.us.archive.org/31/items/kurtlar-vadisi-pusu-1.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%201.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
 
-
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-logo="https://aztv.az/images/logo.png", AzTV
+#EXTINF:-1 tvg-logo="https://aztv.az/images/logo.png" group-title="Azerbaijan", AzTV
 https://live.aztv.az/aztv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://aztv.az/images/medeniyyet-logo.png", Medeniyyet TV
-https://live.aztv.az/medeniyyet/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan", AzTV (rez)
+http://185.114.155.105:8081/aztv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://aztv.az/images/idman-logo.png", Idman TV
-https://live.aztv.az/idman/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://ictimaizds.com/assets/images/logo.png", Ictimai TV
+#EXTINF:-1 tvg-logo="https://ictimaizds.com/assets/images/logo.png" group-title="Azerbaijan", Ictimai TV
 https://stream.itv.az/itv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.atv.az/assets/images/logo.png", ATV
-https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 group-title="Azerbaijan", Ictimai TV (rez)
+https://itv-live.mediatv.az/itv/index.m3u8
 
-#EXTINF:-1, Xazar TV
-https://live.xazar.tv/hls/xazar.m3u8
+#EXTINF:-1 group-title="Azerbaijan", Real TV
+https://realtv-live.mediatv.az/realtv/index.m3u8
 
-#EXTINF:-1, ARB TV
+#EXTINF:-1 group-title="Azerbaijan", Real TV (rez)
+https://realtv.itv.az/live/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Idman TV
+https://live.aztv.az/idman/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Idman TV (rez)
+http://185.114.155.105:8081/idman/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Medeniyyet TV
+https://live.aztv.az/medeniyyet/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", ARB Canli AZ
 https://arb-live.mediatv.az/arb/index.m3u8
 
-#EXTINF:-1, ARB 24
+#EXTINF:-1 group-title="Azerbaijan", ARB 24
 https://arb24-live.mediatv.az/arb24/index.m3u8
 
-#EXTINF:-1, CBC Sport
+#EXTINF:-1 group-title="Azerbaijan", Azad TV (ATV)
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Xazar TV
+https://live.xazar.tv/hls/xazar.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Xazar TV (rez)
+https://xazar-live.mediatv.az/xazar/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", CBC Sport
 https://cbcsport.mediatv.az/cbcsport/index.m3u8
 
-#EXTINF:-1, Space TV
-https://spacetv.mediatv.az/spacetv/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan", CBC Sport (rez)
+https://cbcsport-live.mediatv.az/cbcsport/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Baku.TV
+https://baku-live.mediatv.az/baku/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", APA TV
+https://apatv-live.mediatv.az/apatv/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Kanal S
+https://kanals-live.mediatv.az/kanals/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Kepez TV
+https://kepeztv-live.mediatv.az/kepeztv/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Muz TV
+https://muztv-live.mediatv.az/muztv/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", TMB TV
+https://tmb-live.mediatv.az/tmb/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Gunaz TV
+http://185.114.155.105:8081/gunaz/index.m3u8
