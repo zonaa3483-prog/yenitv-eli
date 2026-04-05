@@ -4,41 +4,52 @@ https://ia600109.us.archive.org/31/items/kurtlar-vadisi-pusu-1.-bolum-yuksek-gor
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://aztv.az/images/logo.png" group-title="Azerbaijan", AzTV
+### --- AZERBAIJAN CHANNELS (FHD & HD) --- ###
+
+#EXTINF:-1 group-title="Azerbaijan", AzTV [FHD]
 https://live.aztv.az/aztv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://aztv.az/images/medeniyyet-logo.png" group-title="Azerbaijan", Medeniyyet TV
+#EXTINF:-1 group-title="Azerbaijan", AzTV [HD]
+http://185.114.155.105:8081/aztv/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Medeniyyet TV [FHD]
 https://live.aztv.az/medeniyyet/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://aztv.az/images/idman-logo.png" group-title="Azerbaijan", Idman TV
+#EXTINF:-1 group-title="Azerbaijan", Medeniyyet TV [HD]
+http://185.114.155.105:8081/medeniyyet/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Idman TV [FHD]
 https://live.aztv.az/idman/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ictimaizds.com/assets/images/logo.png" group-title="Azerbaijan", Ictimai TV
+#EXTINF:-1 group-title="Azerbaijan", Idman TV [HD]
+http://185.114.155.105:8081/idman/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Ictimai TV [FHD]
 https://stream.itv.az/itv/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaijan", Azad TV (ATV)
+#EXTINF:-1 group-title="Azerbaijan", Ictimai TV [HD]
+https://itv-live.mediatv.az/itv/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Azad TV (ATV) [FHD]
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 
-#EXTINF:-1 group-title="Azerbaijan", Xazar TV
-https://live.xazar.tv/hls/xazar.m3u8
-
-#EXTINF:-1 group-title="Azerbaijan", ARB TV
-https://arb-live.mediatv.az/arb/index.m3u8
-
-#EXTINF:-1 group-title="Azerbaijan", ARB 24
-https://arb24-live.mediatv.az/arb24/index.m3u8
-
-#EXTINF:-1 group-title="Azerbaijan", CBC Sport
+#EXTINF:-1 group-title="Azerbaijan", CBC Sport [FHD]
 https://cbcsport.mediatv.az/cbcsport/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaijan", Baku TV
+#EXTINF:-1 group-title="Azerbaijan", CBC Sport [HD]
+https://cbcsport-live.mediatv.az/cbcsport/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Xazar TV [FHD]
+https://live.xazar.tv/hls/xazar.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Xazar TV [HD]
+https://xazar-live.mediatv.az/xazar/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", ARB TV [FHD]
+https://arb-live.mediatv.az/arb/index.m3u8
+
+#EXTINF:-1 group-title="Azerbaijan", Baku TV [FHD]
 https://baku-live.mediatv.az/baku/index.m3u8
 
-#EXTINF:-1 group-title="Azerbaijan", Real TV
+#EXTINF:-1 group-title="Azerbaijan", Real TV [FHD]
 https://realtv-live.mediatv.az/realtv/index.m3u8
-
-#EXTINF:-1 group-title="Azerbaijan", Space TV
-https://spacetv.mediatv.az/spacetv/index.m3u8
-
-#EXTINF:-1 group-title="Azerbaijan", APA TV
-https://apatv-live.mediatv.az/apatv/index.m3u8
