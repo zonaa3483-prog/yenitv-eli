@@ -2,4 +2,33 @@
 #EXTINF:-1 tvg-logo="https://ia902803.us.archive.org/5/items/kvp-logo-design-inspiration-for-a-unique-identity-modern-elegance-and-creative-d/kvp-logo-design-inspiration-for-a-unique-identity-modern-elegance-and-creative-design-watermark-your-success-with-the-striking-this-logo-vector.jpg" group-title="Kurtlar Vadisi Pusu",Kurtlar Vadisi Pusu - 1. Bölüm (720p HD)
 https://ia600109.us.archive.org/31/items/kurtlar-vadisi-pusu-1.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%201.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
 
+#EXTM3U
+#EXTINF:-1,AzTV
+http://cdn-1.itv.az/aztv/index.m3u8
+#EXTINF:-1,İctimai TV
+http://cdn-1.itv.az/itv/index.m3u8
+#EXTINF:-1,Xəzər TV
+https://live.itv.az/xazar/index.m3u8
+#EXTINF:-1,ATV Azerbaijan
+http://atv.az/live/atv.m3u8
+#EXTINF:-1,ARB TV
+https://arb.itv.az/arb/index.m3u8
+#EXTINF:-1,CBC Sport HD
+http://cbcsport.az/live/index.m3u8
+#EXTINF:-1,Real TV
 https://realtv.az/live/index.m3u8
+#EXTINF:-1,İdman TV
+http://cdn-1.itv.az/idman/index.m3u8
+#EXTINF:-1,Mədəniyyət TV
+http://cdn-1.itv.az/madaniyyat/index.m3u8
+#EXTINF:-1,Space TV
+http://spacetv.az/live/index.m3u8
+#EXTINF:-1,ARB 24
+https://arb24.itv.az/arb24/index.m3u8
+#EXTINF:-1,ARB Günəş
+https://gunesh.itv.az/gunesh/index.m3u8
+#EXTINF:-1,MTV Azerbaijan
+http://mtv.az/live/index.m3u8
+#EXTINF:-1,Muz TV
+http://muztv.az/live/index.m3u8
+
