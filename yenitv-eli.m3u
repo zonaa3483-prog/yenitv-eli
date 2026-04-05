@@ -3,5 +3,23 @@
 https://ia600109.us.archive.org/31/items/kurtlar-vadisi-pusu-1.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%201.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
 
 
-#EXTINF:-1 tvg-id="Medeniyyet_TV" tvg-logo="https://www.itv.az/images/logos/mediniyyet.png" group-title="Azerbaijan", Medeniyyet TV
-https://m-live.aztv.az/medeniyyet/index.m3u8
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Medeniyyet" tvg-logo="https://aztv.az/images/medeniyyet-logo.png", Medeniyyet TV
+https://live.aztv.az/medeniyyet/index.m3u8
+
+#EXTINF:-1 tvg-id="AzTV" tvg-logo="https://aztv.az/images/logo.png", AzTV
+https://live.aztv.az/aztv/index.m3u8
+
+#EXTINF:-1 tvg-id="Idman" tvg-logo="https://aztv.az/images/idman-logo.png", Idman TV
+https://live.aztv.az/idman/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV", Ictimai TV
+https://stream.itv.az/itv/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV", ATV Azerbaijan
+https://atvlive.atv.az/atv/index.m3u8
+
+#EXTINF:-1 tvg-id="CBC_Sport", CBC Sport
+https://cbcsport.mediatv.az/cbcsport/index.m3u8
