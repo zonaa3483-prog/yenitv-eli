@@ -3,33 +3,5 @@
 https://ia600109.us.archive.org/31/items/kurtlar-vadisi-pusu-1.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%201.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
 
 #EXTM3U
-
-#EXTINF:-1 group-title="Azerbaijan", AzTV (SD/HD)
-http://185.114.155.105:8081/aztv/index.m3u8
-
-#EXTINF:-1 group-title="Azerbaijan", Medeniyyet TV (SD/HD)
-http://185.114.155.105:8081/medeniyyet/index.m3u8
-
-#EXTINF:-1 group-title="Azerbaijan", Idman TV (SD/HD)
-http://185.114.155.105:8081/idman/index.m3u8
-
-#EXTINF:-1 group-title="Azerbaijan", Ictimai TV (ITV)
-http://itv-live.mediatv.az/itv/index.m3u8
-
-#EXTINF:-1 group-title="Azerbaijan", Azad TV (ATV)
-http://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-
-#EXTINF:-1 group-title="Azerbaijan", CBC Sport
-http://cbcsport-live.mediatv.az/cbcsport/index.m3u8
-
-#EXTINF:-1 group-title="Azerbaijan", Xazar TV
-http://xazar-live.mediatv.az/xazar/index.m3u8
-
-#EXTINF:-1 group-title="Azerbaijan", ARB TV
-http://arb-live.mediatv.az/arb/index.m3u8
-
-#EXTINF:-1 group-title="Azerbaijan", Baku TV
-http://baku-live.mediatv.az/baku/index.m3u8
-
-#EXTINF:-1 group-title="Azerbaijan", Real TV
-http://realtv-live.mediatv.az/realtv/index.m3u8
+#EXTINF:-1 tvg-id="TRT_Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_Belgesel_logo.svg/1200px-TRT_Belgesel_logo.svg.png" group-title="Turkish", TRT Belgesel
+https://tv-trtbelgesel.medya.trt.net.tr/master.m3u8
