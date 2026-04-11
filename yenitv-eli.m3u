@@ -155,121 +155,13 @@ https://ia601503.us.archive.org/25/items/kurtlar-vadisi-pusu-149.-bolum-full-hd-
 https://ia801404.us.archive.org/25/items/kurtlar-vadisi-pusu-150.-bolum-full-hd-720-p-hd/Kurtlar%20Vadisi%20Pusu%20-%20150.%20B%C3%B6l%C3%BCm%20FULL%20HD%28720P_HD%29.ia.mp4
 
 
-#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
 
-# --- AZERBAIJAN CHANNELS ---
-#EXTINF:-1 group-title="Azerbaijan Channels",AzTV
-https://str.yodacdn.net/azertv/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",AzTV (rez)
-https://str2.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8?
-#EXTINF:-1 group-title="Azerbaijan Channels",Ictimai TV
-https://live.itv.az/itv.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Ictimai TV (rez)
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Real TV
-https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?
-#EXTINF:-1 group-title="Azerbaijan Channels",Real TV (rez)
-http://149.255.152.199/real.m3u8?bandwidth=2096&e=1769523849&playlistlength=5&shift=0&sid=coder_79&token=d39082df803400a19021b790ed15f904&user=37076
-#EXTINF:-1 group-title="Azerbaijan Channels",Idman
-https://str2.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjQ2LjIyLjIzNy4xOTkiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMjsgMjIxMDEzMTZHKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQxLjAuNzM5MC4xMjIgTW9iaWxlIFNhZmFyaS81MyIsImV4cCI6MTc2MjExMTMxMywianRpIjoiNWZjYzZlMDVhYzEzNTljMSJ9.U230jxKdiYBKiQ+AyPDed%2FS8Hdjn6mn5aSEQ2E2b5go%3D
-#EXTINF:-1 group-title="Azerbaijan Channels",Idman (rez)
-https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",ARB 24
-https://str.yodacdn.net/arb24/playlist.m3u8?
-#EXTINF:-1 group-title="Azerbaijan Channels",ARB 24 (rez)
-https://str.yodacdn.net/real/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",ARB Canli AZ
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Azad TV
-https://str.yodacdn.net/atv/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Xazar TV
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/az/xezer-tv.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Xazar TV (rez)
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",CBC Sport
-http://str.yodacdn.net/cbcsport/index.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",CBC Sport (rez)
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",CBC Sport (rez3)
-http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/33517
-#EXTINF:-1 group-title="Azerbaijan Channels",Baku.TV
-https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Medeniyyet
-https://str.yodacdn.net/medeniyyettele/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",APA TV
-https://str.yodacdn.net/apatv/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",CBC
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Kanal S
-https://str.yodacdn.net/start/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Kəpəz tv
-http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Muz TV
-https://str.yodacdn.net/mtvaz/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Space TV
-https://str.yodacdn.net/space/playlist.m3u8
 
-# --- TURKISH CHANNELS ---
-#EXTINF:-1 group-title="Turkish Channels",A Haber HD
-https://goldvod.org/live/hpgdiscoo/123456/116.m3u8
-#EXTINF:-1 group-title="Turkish Channels",KANAL D
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web...
-#EXTINF:-1 group-title="Turkish Channels",Kanal 7 FHD TR
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 group-title="Turkish Channels",Kanal 7 Avrupa TR
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
-#EXTINF:-1 group-title="Turkish Channels",ATV HD TR
-http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 group-title="Turkish Channels",Show TV HD
-https://goldvod.org/live/hpgdiscoo/123456/6.m3u8
+
 #EXTINF:-1 group-title="Turkish Channels",NOW TV FHD TR
 https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv.m3u8
 #EXTINF:-1 group-title="Turkish Channels",Star TV
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=...
-#EXTINF:-1 group-title="Turkish Channels",CNN Turk HD
-https://goldvod.org/live/hpgdiscoo/123456/501.m3u8
-#EXTINF:-1 group-title="Turkish Channels",TV8 HD TR
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:-1 group-title="Turkish Channels",TV 100
-https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-#EXTINF:-1 group-title="Turkish Channels",TRT 1
-http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-#EXTINF:-1 group-title="Turkish Channels",a2
-http://89.187.191.41/A2-HD-TR/video.m3u8
-
-# --- RUSSIAN CHANNELS ---
-#EXTINF:-1 group-title="Russian Channels",Кинопремьера HD
-http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
-#EXTINF:-1 group-title="Russian Channels",Кинохит HD
-http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
-#EXTINF:-1 group-title="Russian Channels",МУЖСКОЕ КИНО
-http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
-#EXTINF:-1 group-title="Russian Channels",Viju TV1000
-http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=...
-#EXTINF:-1 group-title="Russian Channels",ДОРАМА
-http://193.27.209.122/dorama/index.m3u8
-#EXTINF:-1 group-title="Russian Channels",НТB HD
-http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
-
-# --- ARABIC CHANNELS ---
-#EXTINF:-1 group-title="Arabic Channels",Al-Jazeera TV
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="Arabic Channels",mbc HD
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8
-#EXTINF:-1 group-title="Arabic Channels",MBC 2 SD AE
-https://m3u.iranvids.com/mbc02/output.m3u8
-#EXTINF:-1 group-title="Arabic Channels",Mbc Action AE
-http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
-
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 01.03.2026 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan 
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="TURK HD+ LINE",TRT1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TV 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",TV 8
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii" tvg-id="" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Sinema",Tabii
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-name="Halk TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/halk-tv-tr.png" group-title="Haber",Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT TURK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png" group-title="TURK HD+ LINE",TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV
