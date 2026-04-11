@@ -157,45 +157,6 @@ https://ia801404.us.archive.org/25/items/kurtlar-vadisi-pusu-150.-bolum-full-hd-
 
 
 
-#EXTINF:-1 group-title="Turkish Channels",Star TV
-https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=...
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT TURK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png" group-title="TURK HD+ LINE",TRT TURK
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HABERTURK" tvg-name="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haberturk-tr.png" group-title="TURK HD+ LINE",HABERTURK
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" group-title="TURK HD+ LINE",TRT COCUK
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" group-title="TURK HD+ LINE",TRT COCUK DIYANET
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="ULUSAL",EURO D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:-1,KANAL 12
-https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
-#EXTINF:-1,TV 41
-https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
-#EXTINF:-1,TV 48
-https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
-#EXTINF:-1 tvg-id="DMAX HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="Belgesel",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 tvg-name="ATV AVRUPA" tvg-id="" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="ULUSAL",ATV AVRUPA
-https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="SHOW TURK" tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/rtCJSqm/show-turk.png" group-title="ULUSAL",SHOW TURK
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
-#EXTINF:-1 tvg-name="EUROSTAR" tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="ULUSAL",EUROSTAR
-https://tgn.bozztv.com/trn03/gt-eurostar/index.m3u8
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1 tvg-name="TRT AVAZ" tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="BELGESEL",TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="TGRT.Belgesel.tr" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png" group-title="BELGESEL",TGRT BELGESEL
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/678
-#EXTINF:-1 tvg-id="now.tr" tvg-name="NOW TV FHD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/now_turk_3T9.png" group-title="|TR| ULUSAL",NOW TV FHD
-https://goldvod.org/live/hpgdiscoo/123456/265.m3u8
 
 
 
