@@ -3,27 +3,60 @@ https://ia803105.us.archive.org/2/items/kurtlar-vadisi-pusu-263.-bolum-sezon-fi-
 
 
 
-
 #EXTM3U
-#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/8N0vMhL.png" group-title="Azerbaijan",AzTV
-https://iptv-org.github.io/iptv/countries/az.m3u
-#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/uGzZfO5.png" group-title="Azerbaijan",Ictimai TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/ictimai.m3u8
-#EXTINF:-1 tvg-id="XazarTV.az" tvg-logo="https://i.imgur.com/Jp0v3oH.png" group-title="Azerbaijan",Xazar TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/xazar.m3u8
-#EXTINF:-1 tvg-id="AzadAzerbaijan.az" tvg-logo="https://i.imgur.com/6U9pQ9R.png" group-title="Azerbaijan",ATV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/atv.m3u8
-#EXTINF:-1 tvg-id="SpaceTV.az" group-title="Azerbaijan",Space TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/space.m3u8
-#EXTINF:-1 tvg-id="ARB.az" group-title="Azerbaijan",ARB TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/arb.m3u8
-#EXTINF:-1 tvg-id="CBC.az" group-title="Azerbaijan",CBC Azerbaijan
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/cbc.m3u8
-#EXTINF:-1 tvg-id="RealTV.az" group-title="Azerbaijan",Real TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/real.m3u8
-#EXTINF:-1 tvg-id="IdmanTV.az" group-title="Azerbaijan",Idman TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/idman.m3u8
-#EXTINF:-1 tvg-id="MedeniyyetTV.az" group-title="Azerbaijan",Medeniyyet TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/medeniyyet.m3u8
-
+#EXTINF:-1 tvg-id="TRT1.tr",TRT 1
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/trt1.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr",Kanal D
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/kanald.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr",Star TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/startv.m3u8
+#EXTINF:-1 tvg-id="ATV.tr",ATV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/atv.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr",Show TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/showtv.m3u8
+#EXTINF:-1 tvg-id="Fox.tr",NOW TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/fox.m3u8
+#EXTINF:-1 tvg-id="TV8.tr",TV8
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/tv8.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr",Kanal 7
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/kanal7.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="A_Haber.tr",A Haber
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/ahaber.m3u8
+#EXTINF:-1 tvg-id="CNN_Turk.tr",CNN Türk
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/cnnturk.m3u8
+#EXTINF:-1 tvg-id="NTV.tr",NTV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/ntv.m3u8
+#EXTINF:-1 tvg-id="HaberTurk.tr",Haber Türk
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/haberturk.m3u8
+#EXTINF:-1 tvg-id="TGRTHaber.tr",TGRT Haber
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/tgrthaber.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr",Halk TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/halktv.m3u8
+#EXTINF:-1 tvg-id="SozcuTV.tr",Sözcü TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/sozcutv.m3u8
+#EXTINF:-1 tvg-id="Tele1.tr",Tele1
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/tele1.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="TRTSpor.tr",TRT Spor
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/trtspor.m3u8
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr",TRT Spor Yıldız
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/trtsporyildiz.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr",A Spor
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/aspor.m3u8
+#EXTINF:-1 tvg-id="TRT_Cocuk.tr",TRT Çocuk
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/trtcocuk.m3u8
+#EXTINF:-1 tvg-id="MinikaCocuk.tr",Minika Çocuk
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/minikacocuk.m3u8
+#EXTINF:-1 tvg-id="MinikaGO.tr",Minika GO
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/minikago.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="TRTBelgesel.tr",TRT Belgesel
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/trtbelgesel.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik.tr",TRT Müzik
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/trtmuzik.m3u8
+#EXTINF:-1 tvg-id="TMB.tr",TMB TV (Musiqi)
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/tmb.m3u8
+#EXTINF:-1 tvg-id="DiyanetTV.tr",Diyanet TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/diyanettv.m3u8
 
