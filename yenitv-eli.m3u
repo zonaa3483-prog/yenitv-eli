@@ -4,59 +4,37 @@ https://ia803105.us.archive.org/2/items/kurtlar-vadisi-pusu-263.-bolum-sezon-fi-
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT1.tr",TRT 1
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/trt1.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr",Kanal D
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/kanald.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr",Star TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/startv.m3u8
-#EXTINF:-1 tvg-id="ATV.tr",ATV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/atv.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr",Show TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/showtv.m3u8
-#EXTINF:-1 tvg-id="Fox.tr",NOW TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/fox.m3u8
-#EXTINF:-1 tvg-id="TV8.tr",TV8
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/tv8.m3u8
-#EXTINF:-1 tvg-id="Kanal7.tr",Kanal 7
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/kanal7.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="A_Haber.tr",A Haber
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/ahaber.m3u8
-#EXTINF:-1 tvg-id="CNN_Turk.tr",CNN Türk
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/cnnturk.m3u8
-#EXTINF:-1 tvg-id="NTV.tr",NTV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/ntv.m3u8
-#EXTINF:-1 tvg-id="HaberTurk.tr",Haber Türk
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/haberturk.m3u8
-#EXTINF:-1 tvg-id="TGRTHaber.tr",TGRT Haber
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/tgrthaber.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr",Halk TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/halktv.m3u8
-#EXTINF:-1 tvg-id="SozcuTV.tr",Sözcü TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/sozcutv.m3u8
-#EXTINF:-1 tvg-id="Tele1.tr",Tele1
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/tele1.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="TRTSpor.tr",TRT Spor
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/trtspor.m3u8
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr",TRT Spor Yıldız
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/trtsporyildiz.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr",A Spor
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/aspor.m3u8
-#EXTINF:-1 tvg-id="TRT_Cocuk.tr",TRT Çocuk
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/trtcocuk.m3u8
-#EXTINF:-1 tvg-id="MinikaCocuk.tr",Minika Çocuk
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/minikacocuk.m3u8
-#EXTINF:-1 tvg-id="MinikaGO.tr",Minika GO
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/minikago.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="TRTBelgesel.tr",TRT Belgesel
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/trtbelgesel.m3u8
-#EXTINF:-1 tvg-id="TRTMuzik.tr",TRT Müzik
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/trtmuzik.m3u8
-#EXTINF:-1 tvg-id="TMB.tr",TMB TV (Musiqi)
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/tmb.m3u8
-#EXTINF:-1 tvg-id="DiyanetTV.tr",Diyanet TV
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr/diyanettv.m3u8
-
+#EXTINF:-1,TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,ATV
+https://atv-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1,KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1,STAR TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1,SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1,NOW TV (FOX)
+https://nowtv-live.daioncdn.net/nowtv/nowtv.m3u8
+#EXTINF:-1,TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1,TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1,CNN TÜRK
+https://demiroren-live.daioncdn.net/cnnturk/cnnturk.m3u8
+#EXTINF:-1,HABERTÜRK
+https://ciner-live.daioncdn.net/haberturk/haberturk.m3u8
+#EXTINF:-1,SÖZCÜ TV
+https://szctv-live.daioncdn.net/szctv/szctv.m3u8
+#EXTINF:-1,HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1,TRT SPOR
+https://tv-trtspor.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,A SPOR
+https://aspor-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1,TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
