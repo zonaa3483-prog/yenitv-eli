@@ -2,6 +2,13 @@
 https://ia803105.us.archive.org/2/items/kurtlar-vadisi-pusu-263.-bolum-sezon-fi-nali-full-hd-720-p-hd/Kurtlar%20Vadisi%20Pusu%20-%20263.%20B%C3%B6l%C3%BCm%20SEZON%20F%C4%B0NAL%C4%B0%20FULL%20HD%28720P_HD%29.ia.mp4
 
 
-#EXTINF:-1 tvg-logo="https://atv.az/assets/images/logo.png" group-title="Azerbaijan", ATV Azerbaijan
-https://atv-live.cdn.mangomolo.com/atv/smil:atv.smil/playlist.m3u8
+
+
+#EXTINF:-1,NUR TV (Dini)
+https://nurtv.az/live.m3u8
+#EXTINF:-1,Medeniyyet TV (Dini/Medeni)
+https://canli.aztv.az/medeniyyet/index.m3u8
+#EXTINF:-1,Naxcivan TV
+https://live.nakhchivantv.az/hls/naxcivantv.m3u8
+
 
