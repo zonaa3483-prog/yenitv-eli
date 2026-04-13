@@ -1,2 +1,6 @@
 #EXTINF:-1 tvg-logo="https://ia902803.us.archive.org/5/items/kvp-logo-design-inspiration-for-a-unique-identity-modern-elegance-and-creative-d/kvp-logo-design-inspiration-for-a-unique-identity-modern-elegance-and-creative-design-watermark-your-success-with-the-striking-this-logo-vector.jpg",Kurtlar Vadisi Pusu - 263. Bölüm
 https://ia803105.us.archive.org/2/items/kurtlar-vadisi-pusu-263.-bolum-sezon-fi-nali-full-hd-720-p-hd/Kurtlar%20Vadisi%20Pusu%20-%20263.%20B%C3%B6l%C3%BCm%20SEZON%20F%C4%B0NAL%C4%B0%20FULL%20HD%28720P_HD%29.ia.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.aztv.az/images/logo.png" group-title="Azerbaijan", AzTV
+https://str.yodacdn.net/aztv/index.m3u8
