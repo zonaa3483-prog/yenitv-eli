@@ -4,11 +4,26 @@ https://ia803105.us.archive.org/2/items/kurtlar-vadisi-pusu-263.-bolum-sezon-fi-
 
 
 
-#EXTINF:-1,NUR TV (Dini)
-https://nurtv.az/live.m3u8
-#EXTINF:-1,Medeniyyet TV (Dini/Medeni)
-https://canli.aztv.az/medeniyyet/index.m3u8
-#EXTINF:-1,Naxcivan TV
-https://live.nakhchivantv.az/hls/naxcivantv.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/8N0vMhL.png" group-title="Azerbaijan",AzTV
+https://iptv-org.github.io/iptv/countries/az.m3u
+#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/uGzZfO5.png" group-title="Azerbaijan",Ictimai TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/ictimai.m3u8
+#EXTINF:-1 tvg-id="XazarTV.az" tvg-logo="https://i.imgur.com/Jp0v3oH.png" group-title="Azerbaijan",Xazar TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/xazar.m3u8
+#EXTINF:-1 tvg-id="AzadAzerbaijan.az" tvg-logo="https://i.imgur.com/6U9pQ9R.png" group-title="Azerbaijan",ATV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/atv.m3u8
+#EXTINF:-1 tvg-id="SpaceTV.az" group-title="Azerbaijan",Space TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/space.m3u8
+#EXTINF:-1 tvg-id="ARB.az" group-title="Azerbaijan",ARB TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/arb.m3u8
+#EXTINF:-1 tvg-id="CBC.az" group-title="Azerbaijan",CBC Azerbaijan
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/cbc.m3u8
+#EXTINF:-1 tvg-id="RealTV.az" group-title="Azerbaijan",Real TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/real.m3u8
+#EXTINF:-1 tvg-id="IdmanTV.az" group-title="Azerbaijan",Idman TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/idman.m3u8
+#EXTINF:-1 tvg-id="MedeniyyetTV.az" group-title="Azerbaijan",Medeniyyet TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/medeniyyet.m3u8
 
 
