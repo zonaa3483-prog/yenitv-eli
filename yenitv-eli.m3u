@@ -1,9 +1,11 @@
 Kurtlar Vadisi Sinema
 
-#EXTM3U
-#EXTINF:-1 tvg-id="AzTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/AzTV_logo.png" group-title="General", Az TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-http://109.205.166.68/server124/aztv/index3.m3u8?e=1676
+
+
+
 #EXTINF:-1 tvg-id="00sReplay" tvg-logo="https://i.mjh.nz/PlutoTV/62ba60f059624e000781c436.png" group-title="Music", 00s Replay
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/ATV_Logo.png" group-title="General", ATV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+https://streams.uzunmuhalefet.com/stream/c8758555-8581-4dec-9a46-ebcfaf9ace0a.m3u8
