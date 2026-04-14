@@ -1,4 +1,6 @@
 Kurtlar Vadisi Sinema
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="00sReplay" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/logos/00s-replay.png" group-title="Music", 00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
