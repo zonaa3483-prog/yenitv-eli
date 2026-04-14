@@ -122,3 +122,7 @@ https://streams.uzunmuhalefet.com/stream/904601a0-a0b6-4b3b-9f68-15e73afba3b7.m3
 
 #EXTINF:-1,Kurtlar Vadisi Pusu
 https://streams.uzunmuhalefet.com/stream/e0a0d99e-8761-482d-8e50-2f6385750d89.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Atv_logo.png" group-title="Ulusal Kanallar", ATV (720p) 2
+http://89.187.191.41/ATV-HD-TR/video.m3u8
