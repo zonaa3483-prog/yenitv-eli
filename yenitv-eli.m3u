@@ -122,6 +122,17 @@ https://streams.uzunmuhalefet.com/stream/904601a0-a0b6-4b3b-9f68-15e73afba3b7.m3
 
 #EXTINF:-1,Kurtlar Vadisi Pusu
 https://streams.uzunmuhalefet.com/stream/e0a0d99e-8761-482d-8e50-2f6385750d89.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AzTV" group-title="General",Az TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+
+#EXTINF:-1 tvg-id="AzerbaijanGharbi" group-title="General",Azerbaijan Gharbi
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AzstarTV" group-title="General",Azstar TV HD (1080p)
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Atv_logo.png" group-title="Ulusal Kanallar", ATV (720p) 2
