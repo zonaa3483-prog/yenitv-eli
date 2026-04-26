@@ -10,3 +10,10 @@ https://ia600801.us.archive.org/18/items/kurtlar-vadisi-pusu-1.-bolum-yuksek-gor
 
 #EXTINF:-1,Kurtlar Vadisi Pusu - Bölüm 2 (1080p)
 https://ia600900.us.archive.org/7/items/kurtlar-vadisi-pusu-2.-bolum-yuksek-goruntu-kalitesi-1080-p-hd/Kurtlar%20Vadisi%20Pusu%20_%202.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%281080P_HD%29.mp4
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="KVP.Pusu" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1a/Kurtlar_Vadisi_Pusu_logo.png" group-title="KESİNTİSİZ DİZİ", Kurtlar Vadisi Pusu (Tüm Bölümler)
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/playlist?list=PLm_pU79_S3K0Y_zZp_pXfX3L8-90f7iU4
